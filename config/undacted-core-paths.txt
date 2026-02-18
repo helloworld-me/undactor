@@ -1,0 +1,7 @@
+# Paths are relative to the UNDACTED repository root.
+# Keep this list focused on the core functionality you want to migrate.
+
+src/app/api
+src/lib
+src/components
+prisma
